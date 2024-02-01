@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "AI for Science"
+title: "How to Attend a Conference"
 permalink: /
 
 ---
