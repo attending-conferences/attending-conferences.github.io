@@ -1,6 +1,7 @@
 ---
 layout: glbio24
 title: "GLBIO 2024: How to attend a conference"
+description: "Lowering the barrier to entry for first-time conference attendees"
 permalink: /glbio24
 
 
@@ -80,10 +81,6 @@ though no one will be turned away.
 
 4:50pm - 5:00pm: Closing Remarks
 
-## Contact
-
-Please email Dan Deblasio at deblasio -at- cs.cmu.edu
-
 # Invited Talks (In alphabetical order)
 
 {% include team.html id="speakers" %}
@@ -100,15 +97,15 @@ Please email Dan Deblasio at deblasio -at- cs.cmu.edu
 
 ## Registration
 
-Please submit your registration [here]
-
-# Organizers and Contact
-
-Organizers are in alphabetical order. 
+Registration is free and will be open soon.
 
 ## Organizers 
 
 {% include team.html id="Organizers" %}
+
+## Contact
+
+To get in contact, please email Dan Deblasio at [deblasio@cs.cmu.edu](mailto:deblasio@cs.cmu.edu)
 
 
 <!-- <ul>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "How to Attend a Conference"
+description: "Lowering the barrier to entry for first-time conference attendees"
 permalink: /
 
 ---
@@ -25,4 +26,4 @@ though no one will be turned away.
 
 ## Contact
 
-Please email Dan Deblasio at deblasio -at- cs.cmu.edu
+To get in contact, please email Dan Deblasio at [deblasio@cs.cmu.edu](mailto:deblasio@cs.cmu.edu)
