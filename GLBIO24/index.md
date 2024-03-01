@@ -55,7 +55,7 @@ Organizers:
 
 # About
 
-In this [1st GLBIO workshop](glbio24.html) will be an interactive half-day session we plan to conduct several activities in an effort to acclimate students 
+Our [first GLBIO workshop](glbio24.html) will be an interactive half-day session we plan to conduct several activities in an effort to acclimate students 
 who may not have attended in-person conferences
 to the academic meeting environment. 
 While the discussions will be geared toward first-time attendees, 
@@ -82,7 +82,7 @@ though no one will be turned away.
 
 ## Contact
 
-Please email Dan Deblasio at deblasia -at- cs.cmu.edu
+Please email Dan Deblasio at deblasio -at- cs.cmu.edu
 
 # Invited Talks (In alphabetical order)
 
