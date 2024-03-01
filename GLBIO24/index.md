@@ -1,7 +1,7 @@
 ---
-layout: icml24
+layout: glbio24
 title: "AI for Science: Scaling in AI for Scientific Discovery"
-permalink: /icml24
+permalink: /glbio24
 
 
 speakers:

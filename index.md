@@ -7,24 +7,45 @@ permalink: /
 
 # About
 
-For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. We are a series of workshops that facilitate the development of AI for Science with the identified gaps from the [1st AI4Science workshop](neurips21.html) held with NeurIPS 2021 and theories and foundations from [2nd AI4Science workshop](icml22.html) with ICML 2022, progress and promises from [3rd AI for Science workshop](neurips22.html) with NeurIPS 2022 and from theory to practice from [4th AI for Science workshop](neurips23.html) with NeurIPS 2023. We look forward to meeting you (again) in our future events. Let us know if you have any feedback through [email](mailto:ai4sciencecommunity@gmail.com).
+In this [1st GLBIO workshop](glbio24.html) will be an interactive half-day session we plan to conduct several activities in an effort to acclimate students 
+who may not have attended in-person conferences
+to the academic meeting environment. 
+While the discussions will be geared toward first-time attendees, 
+other students will be encouraged to attend not only to participate in the networking component of the session
+but to help impart any experiences from previous meetings. 
+This session is also intended to include students not only as participants, but as co-organizers
+and continues the tradition of GLBIO being highly encouraging to junior members of our community in the region. 
+We aim to attract students at the undergraduate and junior graduate level, 
+though no one will be turned away.
+
+## Schedule
+
+1:00pm - 1:45pm: Scientific Speed Dating
+1:45pm - 2:00pm: Welcome and Introduction
+2:00pm - 2:45pm: Student Tips and Tricks Discussions (10-15min each)
+2:45pm - 4:00pm: Student Poster Session
+4:00pm - 4:50pm: Project Concept Ideation
+4:50pm - 5:00pm: Closing Remarks
+
+## Team
+
+Dan Deblasio
+
+Phillip Compeau
+
+Caleb Ellington
+
+Monica Dayao
+
+Raehash Shah
 
 ## News
 
-Our blog “[AI for Science in 2023: A Community Primer](https://medium.com/@AI_for_Science/ai-for-science-in-2023-a-community-primer-d2c2db37e9a7)” is now live! In this blog, we delve into how AI intersects with various scientific fields - from Chemistry, Biology, Physics, Computer/Math. Science, Neuroscience to Earth Science.
+- **March 1, 2024**: The website is live!
 
 
-![2023](./assets/images/2023.png)
+## Contact
 
-
-Excited to share our [Nature paper](https://www.nature.com/articles/s41586-023-06221-2) on the role of AI in scientific discovery.  
-
-
-![Nature](./assets/images/nature.png)
-
-
-
-## Follow Us
-
+Please email Dan Deblasio at [
 Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-15rtaehdi-we~H~LhzZqrQTy6RtLGtug) for active discussions.
 
