@@ -69,17 +69,17 @@ though no one will be turned away.
 
 ## Schedule
 
-1:00pm - 1:45pm: Scientific Speed Dating
+1:00pm-1:45pm Scientific Speed Dating
 
-1:45pm - 2:00pm: Welcome and Introduction
+1:45pm-2:00pm Welcome and Introduction to Session
 
-2:00pm - 2:45pm: Student Tips and Tricks Discussions (10-15min each)
+2:00pm-2:45pm Student Tips and Tricks Discussions
 
-2:45pm - 4:00pm: Student Poster Session
+2:45pm-4:00pm Project Concept Ideation
 
-4:00pm - 4:50pm: Project Concept Ideation
+4:00pm-4:45pm Science Communication
 
-4:50pm - 5:00pm: Closing Remarks
+4:45pm-5:00pm Closing remarks
 
 # Invited Talks (In alphabetical order)
 
