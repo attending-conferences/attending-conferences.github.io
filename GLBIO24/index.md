@@ -97,7 +97,7 @@ though no one will be turned away.
 
 ## Registration
 
-Registration is free and will be open soon.
+Registration is included with [GLBIO registration](https://www.iscb.org/glbio2024/register).
 
 ## Organizers 
 
